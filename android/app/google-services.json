@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "457855301675",
+    "firebase_url": "https://ghumakkad-2-default-rtdb.firebaseio.com",
+    "project_id": "ghumakkad-2",
+    "storage_bucket": "ghumakkad-2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:457855301675:android:4a4edd66865f567ba7126e",
+        "android_client_info": {
+          "package_name": "com.example.ghumakkad_2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "457855301675-ogipfl142tkj0rhdeiahq9mfoqjji4lq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ghumakkad_2",
+            "certificate_hash": "b77c77771d0c8b852f9cbdef2081d0abee1b92d8"
+          }
+        },
+        {
+          "client_id": "457855301675-6bru62h1uv19qsuudt0qjm511ks6laqr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNKFCRBaFpvH0Hx6uDC2o_4Qn9KawDmnU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "457855301675-6bru62h1uv19qsuudt0qjm511ks6laqr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
