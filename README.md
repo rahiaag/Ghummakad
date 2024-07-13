@@ -1,6 +1,6 @@
 # Ghumakkad
+Ghumakkad is a travel planning platform that offers a centralized, user-friendly mobile application. It promotes responsible tourism and enhances visitor experiences through detailed guides, local recommendations, and highlights of major city attractions. The platform features intuitive search and filter options, 24/7 chatbot support, and user-generated reviews to help travelers make informed decisions and uncover hidden gems. Ghumakkad aims to contribute to the growth and sustainability of India’s tourism industry while providing memorable and immersive travel experiences
 
-A Flutter project.
 
 ## Getting Started
 
